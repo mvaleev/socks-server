@@ -1,0 +1,5 @@
+credentials:
+  - user: user1
+    password: pass1
+  - user: user2
+    password: pass2
